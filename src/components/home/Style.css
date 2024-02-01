@@ -1,0 +1,44 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center; 
+    align-items: center;
+    padding:60px;
+    gap: 4rem;
+    
+}
+
+.box h2 {
+
+    text-align: center;
+    padding: 10px;
+
+}
+
+.box p {
+    padding:  10px;
+    text-align: center;
+}
+
+.box button {
+    text-align: center;
+    padding: 10px;
+    border-radius: 12px;
+    margin-left: 20%;
+    color: white;
+    border: none;
+    background: #1356de;
+    
+   
+}
+
+.box img {
+
+    border-radius: 30px;
+
+}
+
+.box footer {
+    color: antiquewhite;
+}
